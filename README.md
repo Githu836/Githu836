@@ -10,5 +10,7 @@ For Your information
 - 📫 How to reach me: you can reach me
 - 😄 Pronouns: IDK
 - ⚡ Fun fact: I like hacking because I often dream of being a hacker LOL😅 
+
 -my words Nothing is impossible in this world and remember to keep learning because if you don't learn you are the same as being dead, remember that this world is a test, try to be patient. 
+Sorry if it's still random 
 Bye 👋
