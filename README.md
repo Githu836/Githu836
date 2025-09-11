@@ -77,7 +77,7 @@ Built for **pentesters, bug bounty hunters, and red teamers**.
 ## 📫 Connect
 <p align="center">
   <a href="https://github.com/Githu836"><img src="https://img.shields.io/badge/GitHub-Faqih-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:example@mail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:ff1118641@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
