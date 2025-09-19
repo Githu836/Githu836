@@ -30,7 +30,7 @@ Uses your wordlist to generate single and combined paths, multi-threaded request
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" />
   <img src="https://img.shields.io/badge/Platform-Android%20|%20Linux%20|%20Windows-lightgrey.svg" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/Status-1.0-orange.svg" />
+  <img src="https://img.shields.io/badge/Version-1.0-blue.svg" />
 </p>
 
 ---
