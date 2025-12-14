@@ -22,15 +22,37 @@
 ---
 
 ## 🚀 Featured Projects
-### 🔍 [dirbuster-mini](https://github.com/Githu836/dirbuster-mini) — Incremental Dir Buster (mini)
-A lightweight, incremental directory brute-forcer written in Python3.  
-Uses your wordlist to generate single and combined paths, multi-threaded requests, and save results.
+
+### 🔍 [dirbuster-mini](https://github.com/Githu836/dirbuster-mini) — Incremental Directory Brute Forcer
+A lightweight, incremental directory brute-force tool written in Python.  
+Designed for fast reconnaissance with combined wordlist paths, multithreading, and clean output.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" />
+  <img src="https://img.shields.io/badge/Category-Web%20Recon-red.svg" />
   <img src="https://img.shields.io/badge/Platform-Android%20|%20Linux%20|%20Windows-lightgrey.svg" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/Version-1.0-blue.svg" />
+</p>
+
+---
+
+### 📱 [phone-number-info-tool](https://github.com/Githu836/phone-number-info-tool) — Phone Number Intelligence Lookup
+A standalone Python CLI tool for validating and extracting structured metadata from international phone numbers.  
+Built on top of official numbering standards, suitable for **OSINT basics, data validation, and automation**.
+
+**Capabilities:**
+- Country & country code detection
+- Carrier / operator identification
+- Time zone lookup
+- Number type classification (Mobile, Fixed Line, VoIP, etc.)
+- Indonesian provider detection by prefix
+- Batch processing & JSON export
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue.svg" />
+  <img src="https://img.shields.io/badge/Category-OSINT%20%7C%20Utilities-purple.svg" />
+  <img src="https://img.shields.io/badge/CLI-Standalone-orange.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
 </p>
 
 ---
